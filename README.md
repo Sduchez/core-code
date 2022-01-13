@@ -23,10 +23,10 @@ Anwser to the question: Why is pseudocode helpful? **I believe is useful as it g
 
 Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022)
 
-thisYear = 2022
-yob = 0
-userYob = 0
-yourAge = thisYear - yob;
+    thisYear = 2022
+    yob = 0
+    userYob = 0
+    functionYourAge = thisYear - yob;
 
 Read about flowcharts here
 Answer to the question: Why are flowcharts important to us as developers? **I think flowcharts will give us as developers the chance to graphicly see the process that we are about to build, is a tangible way to determine the path for coding**
