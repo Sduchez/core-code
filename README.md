@@ -1,3 +1,5 @@
+***WEEK ONE***
+
 Watch this video about compilation and interpretation- DONE
 Search and answer the question: Java language is compiled or interpreted? ** JAva is both a compiled and interpreted language.
 Create an algorithm to calculate the equivalent of your local currencty to USD
@@ -31,3 +33,17 @@ Create a pseudocode to calculate the aproximated age of a user base on the year 
 Read about flowcharts here
 Answer to the question: Why are flowcharts important to us as developers? **I think flowcharts will give us as developers the chance to graphicly see the process that we are about to build, is a tangible way to determine the path for coding**
 Search about High-level languages and Low-level languages, you can start with this video
+
+
+**WEDNESDAY**
+Learn about binary, decimal and hexadecimal numbers
+Translate the year you where born to binary, decimal and hexadecimal
+    My YOB 1983
+    Binary: 11110111111
+    Decimal:1983
+    Hex: 7BF
+Translate 51966 into hexadecimal and binary: LOL   CAFE
+Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
+![image](https://user-images.githubusercontent.com/94017302/149431712-2af7e8df-5803-464b-b84a-41da4fe02a5b.png)
+
+Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name
