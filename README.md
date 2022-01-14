@@ -47,3 +47,46 @@ Use a Low-level language, for example MIPS aseembler, to do so, you will need to
 ![image](https://user-images.githubusercontent.com/94017302/149431712-2af7e8df-5803-464b-b84a-41da4fe02a5b.png)
 
 Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name
+
+
+**THURSDAY**
+
+    Search for real word applications of Javascript:
+    
+        class Calculator {
+      add(a, b) {
+        return a + b;
+      }
+
+      sub(a, b) {
+        return a - b;
+      }
+
+      mul(a, b) {
+        return a * b;
+      }
+
+      div(a, b) {
+        if (b == 0) throw new Error('div by 0 not allowed');
+        return a / b;
+      }
+    }
+
+    const a = 12;
+    const b = 6;
+
+    const cal = new Calculator();
+
+    const AplusB = cal.add(a,b);
+    const AminusB = cal.sub(a, b);
+    const AtimesB = cal.mul(a, b);
+    const AdivB = cal.div(a, b);
+
+    const results = [AplusB, AminusB, AtimesB, AdivB];
+
+    console.log(results);
+
+(optional but great) Watch this video
+(optional but great) Watch this video
+Follow the github course, you can find it here
+
