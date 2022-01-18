@@ -1,0 +1,8 @@
+  let num1 = 6
+  let num2 = 6
+  let num3 = 1
+  let num4 = 5
+
+  numSum = num1 + num2
+  numSubs = num4 - num3
+  finalResult = numSum * numSubs
